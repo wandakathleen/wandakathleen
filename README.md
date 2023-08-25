@@ -2,6 +2,7 @@
 
 
 ### 💫 About me!
+- 🎭 I am a part-time graphic designer with 1 year of experience 
 - 🌱 I’m currently studying: BSIT - Major In Software Development
 - [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://wandakathleen.github.io/portfolio/)
 
