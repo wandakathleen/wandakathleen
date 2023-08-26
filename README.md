@@ -47,7 +47,7 @@
 ### 🌐 Connect with me!
 <p align="left">
 <a href="https://linkedin.com/in/wandakathleen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wandakathleen" height="30" width="40" /></a>
-<a href="https://www.behance.net/kathleenmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kathleenmj" height="30" width="40" /></a>
+<a href="https://www.behance.net/wandakathleen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kathleenmj" height="30" width="40" /></a>
 <a href="https://facebook.com/cabaneroswanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kathleenmj" height="30" width="40" /></a>
 <a href="https://paypal.me/wandakathleen" target="blank"><img align="center" src="https://img.shields.io/badge/paypal-0079C1?style=for-the-badge&logo=paypal&logoColor=white" alt="wandakathleen" height="30" width="100" /></a>
 
