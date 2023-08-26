@@ -1,12 +1,11 @@
 # Hey, I'm Kathleen! 👋
 
 
-### 💫 About me!
+## 💫 About me!
 - 🎭 I am a part-time graphic designer with 1 year of experience 
-- 🌱 I’m currently studying: BSIT - Major In Software Development
-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://wandakathleen.github.io/portfolio/)
+- 🌱 I’m currently studying: BSIT - Major In Software Development (Year One)
 
-### 💻  Skills
+## 💻  Skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="photoshop" width="40" height="40"/> 
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sony-vegas-logo-icon.png" width="40" height="40"/> </a>
@@ -16,9 +15,7 @@
 <img src="https://www.cdnlogo.com/logos/c/7/canva.svg" alt="canva" width="40" height="40"/> </a> 
 
 
-
-
-### 💻 Tech Stack I'd Love to Learn
+## 💻 Tech Stack I'd Love to Learn
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="html5" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -43,15 +40,11 @@
 <img src="https://www.cdnlogo.com/logos/t/58/tailwind-css.svg" alt="nextjs" width="40" height="40"/> </a> 
 
 
----
-### 🌐 Connect with me!
+## 🌐 Connect with me!
 <p align="left">
 <a href="https://linkedin.com/in/wandakathleen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wandakathleen" height="30" width="40" /></a>
 <a href="https://www.behance.net/wandakathleen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kathleenmj" height="30" width="40" /></a>
 <a href="https://facebook.com/cabaneroswanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kathleenmj" height="30" width="40" /></a>
 <a href="https://paypal.me/wandakathleen" target="blank"><img align="center" src="https://img.shields.io/badge/paypal-0079C1?style=for-the-badge&logo=paypal&logoColor=white" alt="wandakathleen" height="30" width="100" /></a>
-
-
-
 
 [![](https://visitcount.itsvg.in/api?id=wandakathleen&icon=0&color=10)](https://visitcount.itsvg.in)
